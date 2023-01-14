@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+/* header and navigation style */
+.nav-title{
+    font-weight: 800;
+font-size: 45px;
+line-height: 61px;
+
+}
+.text-primary{
+    color: orange;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+}
+nav li{
+    list-style: none;
+    margin-left: 50px;
+}
+/* button using */
+.btn-primary{
+    color: #FFFFFF;
+    font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 27px;
+padding: 18px 35px;
+border-radius: 5px;
+background-color: 
+#FD6E0A;
+border: 0;
+}
+.contact{
+    margin-left: 10px;
+    width: 100px;
+height: 27px;
+left: 484px;
+top: 608px;
+background-color: aliceblue;
+color: #FD6E0A;
+}
+/* hader banner */
+.banner{
+    display: flex;
+    margin: 0 200px;
+    align-items: center;
+}
+h3{
+    font-weight: 600;
+    font-size: 45px;
+    margin-bottom: 10px;
+}
+h1{
+    
+font-weight: 700;
+font-size: 60px;
+
+
+}
+p{
+ margin-top: 20px;
+font-size: 18px;
+line-height: 30px;
+color: #757575;
+margin-bottom: 30px;
+}
+
