@@ -75,6 +75,23 @@ margin-bottom: 30px;
 /* hader+img style */
 .header{
     background: #FFF8F3;
+    background-image: url(../images/header_bg.png) , url(../images/developer.png);
+    background-repeat: no-repeat;
+    background-position: right bottom, left;
+}
+/* main section */
+main
+/* about section style */
+.about {
+
+}
+
+}
+.about-heading{
+
+}
+.about-description{
+
 }
     
 
